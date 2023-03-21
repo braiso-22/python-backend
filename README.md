@@ -30,4 +30,4 @@ Para ejecutar el proyecto, debes ejecutar el siguiente comando.
 $ uvicorn main:app --reload
 ```
 
-Aparecera un mensaje de que está corriendo sobre https://127.0.0.1:8000
+Aparecera un mensaje de que está corriendo sobre http://127.0.0.1:8000
